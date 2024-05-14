@@ -1,5 +1,8 @@
 #Índice
 
+## 🛠 Skills
+Javascript, HTML, CSS...
+
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
 *[Insignias](#insignias)
